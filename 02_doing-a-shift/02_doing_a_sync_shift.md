@@ -33,6 +33,8 @@ If you feel the student's issue has been resolved, you can resolve the question 
 ## Ending Your Shift
 Near the end of your shift, if you recieve a question 5 minutes prior to the end of your shift, you can `qbot more help`. If you recieve a question 2 minutes prior to the end of your shift, you will need to `qbot more help` and then `qbot out`. Any questions assigned to you for 2 minutes or longer will need to be added back to the queue before you `qbot out`.
 
+If you're not on with a student, you can simply `qbot out` to end your shift.
+
 ## Student Cannot / Will Not Pair Program
 Occassionally, students will not be able to pair program or will prefer not to. If possible, try and find some way to synchronously work with the student, even if it's just video. We want to give them some meaningful time with our full attention to help them for those 15 minutes.
 
@@ -46,5 +48,3 @@ This will take you to their forked repository and you can get the url to clone t
 
 * [Screen Share Documentation](https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md)
 * [Qbot Commands](https://github.com/flatiron-labs/online-ed-ops/blob/master/technical-coach-team/role-technical-coach/lib/qbot.md) 
-
-
