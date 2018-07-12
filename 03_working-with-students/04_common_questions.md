@@ -1,5 +1,7 @@
 # Common Questions
 
+![questions](http://i.giphy.com/xTk9ZMytZS75B48rD2.gif "questions")
+
 As a Technical Coach, you’ll get all sorts of question from all sorts of different students. It can be overwhelming to have to constantly switch contexts (in terms of the student, the topic, and the question). Broadly speaking, the questions will fall into one of more of the five categories listed below:
 
 * **Learn/IDE/Workflow Issues**
@@ -50,7 +52,7 @@ Environment or syntax errors or program breaks when running tests.
 
 ### Strategies for Resolution
 
-*  If it's an environment issue, we'll can solve the issue for the student. Take a few minutes and investigate and see if you understand what the problem is. If you do, then tell the student first, in one or two sentences, what the error is. After, that tell the student that you will walk them through the steps to fix if it’s short. If it's more complicated, you can do it for them over screen share.
+*  If it's an environment issue, we'll can solve the issue for the student. Take a few minutes and investigate and see if you understand what the problem is. If you do, then tell the student first, in one or two sentences, what the error is. After, that tell the student that you will walk them through the steps to fix if it’s short. If it's more complicated, you can do it for them over screen share. If it's an error related to Virtual Box, [check out this articles about common VB Errors and related resources](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md).
 
     - For example, if it’s an issue with their gems and they need to run `bundle install`, tell them explicitly what the problem is and then say, "Okay, here are the steps to fix it and we’ll see what happens". 
     - Walk them through the commands. Depending on how long the process took, end this with a debrief of what you just did.
@@ -108,11 +110,13 @@ Students don’t have a specific testing issue, but instead they are struggling 
 
 ### Strategies for Resolution
 
+* **Link them to a video**: Some common or beginner conceptual issues can be resolved by linking the student to a pre-recorded video we have in our video archive, [which you can access here](http://instruction.learn.co).
+
 * **Teaching mode**: You can try and solve the student’s issue through a comprehensive walkthrough of the concept. Pull out from the context of the specific lesson the student is working with and give other code examples of the concept. Ask the student to explain the underlying concept or more specifically, ask the student why the result is what it is and then have them elicit the rules from there. Once you know where they’re having trouble,  break down the concept into smaller components and explain how these components build on top of each other. Start with the most basic component and use short concept questions to check to see what the student does know. Concept questions are simple and straightforward and usually require a yes/no or short answer. At some point you’ll see where exactly the student is lost. Now you’ll take the reins and continue demoing the rest of the concept. Walk the students through this and be didactic. Every few minutes, check to make sure that the student understands what you’re presenting or if they need clarification. At the end of the demo, have the student summarize the concept. 
 
 * **Document the issue**: After explaining the concept, if the student still doesn't understand, document the issue in their admin profile. Click on their icon in the /expert-chat to get to the student’s /admin page. Make a note that the student is having an issue with the specific concept and explain where they're lost and what you steps you took to try to explain the issue, as well as any other relevant info.
 
-* **Escalate the issue**: If you see other TCs have already pointed out that this student doesn’t understand the concept, send Ruth or the Section Lead in charge an email or DM explaining this and the link to the student’s /admin page. **Note: If it's a paying student, it is especially important to leave a note in their admin profile and email or slack Ruth or the Section Lead in so we can get this student additional help!**
+* **Escalate the issue**: If you see other TCs have already pointed out that this student doesn’t understand the concept, [fill out the Additional Support form noted in this article](https://github.com/flatiron-labs/technical-coach-resources/blob/master/feedback.md). **Note: If it's a paying student, it is especially important to leave a note in their admin profile and email or slack Ruth or the Section Lead in so we can get this student additional help!**
 
 **Video Example** [Student is having issues conceptually and needs guidance to get on the right track](https://youtu.be/q2WoFBdyXxI)
 
@@ -133,6 +137,19 @@ We don't support these types of questions. Primarily these will be questions stu
 
 * **Refer them to admissions**: Questions regarding admissions or billing can be referred to the admission department. This can be done by clicking on the `Assign to enrollments` button in the bottom of the chat window, between `Resolve` and `Log Bug Report`. Let the student know that this will resolve the question and that they should hear back from someone within 24 hours. 
 
-* **1:1 portfolio support**: We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking technical coaches for help with their assessment project. Instead they should be working on these projects on their own, [scheduling a 1:1 with a portfolio coach](https://theflatironschool.typeform.com/to/UUhrc7), or reaching out to the [section lead in charge of the section](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) for help. Kindly tell the student that you cannot answer their assessment questions, but that they can schedule a 1:1 with a portfolio support coach. If they are feeling frustrated, tell them they can always reach out to the section lead in charge of the topic their on and they'll receive help soon. 
+* **1:1 portfolio support**: We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking technical coaches for help with their assessment project. Instead they should be working on these projects on their own, [scheduling a 1:1 with a portfolio coach](https://theflatironschool.typeform.com/to/UUhrc7), or reaching out to the [section lead in charge of the section](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) for help. Kindly tell the student that you cannot answer their assessment questions, but that they can schedule a 1:1 with a portfolio support coach. If they are feeling frustrated, tell them they can always reach out to the section lead in charge of the topic their on and they'll receive help soon. You can say something like:
 
-* **Tell the student we don't support the question**: We never want to annoy or add to a student's frustration so be kind and friendly when speaking with them. For questions that are unrelated to admissions or assessments, kindly tell them we don't support the question they're asking. If time is available, you may want to give them a link to a resource or point them in the direction they should proceed (eg try googling it, checking stack overflow, asking in the Slack channel, etc).
+>
+Hey {name}, we don't support questions on assessments through Ask A Question. However, there are several resources you can take advantage of to help with your project. There are frequent study groups focused on portfolio projects. There are also quite a few videos you can search through at http://instruction.learn.co. Finally, if you've tried study groups and still need more, you can book a 30-min session with a Portfolio Support Coach. For more info and the link to book a session, you can check out this article on the help center: http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project
+>
+
+* **Tell the student we don't support the question**: We never want to annoy or add to a student's frustration so be kind and friendly when speaking with them. For questions that are unrelated to admissions or assessments, kindly tell them we don't support the question they're asking. If the question is related to the curriculum, feel free to answer it if time is available. Otherwise you may want to give them a link to a resource or point them in the direction they should proceed (eg try googling it, checking stack overflow, asking in the Slack channel, etc).
+
+
+## Resources
+
+* [Common VB Errors and related resources](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md)
+* [Instructional Videos](http://instruction.learn.co)
+* [Portfolio Project Support Help Center Article](http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project)
+* [Portfolio Project Support Form](https://theflatironschool.typeform.com/to/UUhrc7)
+* [Section leads](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) 
