@@ -1,9 +1,9 @@
-# Debugging and the Socractic Method Quiz
+# Common Questions Quiz
 ---
 
 ???
 
-# Debugging and the Socractic Method Quiz
+# Common Questions Quiz
 
 ?: What's the first step of the debugging process?
 
