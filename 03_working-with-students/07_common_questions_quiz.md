@@ -24,4 +24,16 @@
 [ ] Have the student walk you through their code
 [X] All of the above
 
+?: When debugging a student's code and error messages, what's the first thing you should ask the student?
+
+( ) what are they trying to do
+(X) can they explain what the error message is saying
+( ) what concepts is this lab covering
+
+?: If a student isn't sure what their code does you should
+
+( ) pair program
+( ) ask the student to push all their code to you
+(X) have the student try out their code in IRB, pry, console, or debugger
+
 ???
