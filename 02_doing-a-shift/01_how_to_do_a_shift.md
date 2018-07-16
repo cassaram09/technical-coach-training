@@ -59,6 +59,11 @@ We do the chat only shift on some holidays, if we don't have enough people to do
 - Respond to every active question on every thread that isn't being helped by another member of staff. If you can, help them all. If not, let them know you're busy but will try to get back to them as quickly as you can. We get that more than 1-3 lively threads at a time is challenging - just do what you can and enjoy the process!
 - An active question is one where the OP (Original Poster) has made a comment that has not yet been responded to by a member of staff.
 
+## Breaks
+While on a shift, you are permitted one 10 minute break. You can take this break in the middle of your shift as long as no other TC is already on break. You can't take your 10 at the beginning of a shift (and show up late) or take a break at the end (and leave early). There shouldn't be more than one TC on break at a time. Best practice is to clear it with dispatch before you take your break. When you're ready to break, `qbot out` so no questions are assigned to you. When you're break is done, message `qbot in <role>` in Slack. 
+
+If you're working a double shift, you are permitted one 30 minute break and one 10 minute break. You can't take these breaks back to back (so no 40 minutes breaks). Same rules as regular breaks apply: Take them in the middle of your shift and if no other TCs are already on break. If you're breaking for 30 minutes, try to wait until the chat is quiet and not extra busy, if possible - the other TCs on shift will thank you for it!
+
 ## Ending a Shift
 - Welcome the people taking over your shift (if any) in the `#technical-coaches` Slack channel.
 - If there isn't a coach taking over from you, let everyone you're chatting with or have chatted with during the shift know that you're going off shift. Let them know that the next person should be on (whenever they should be on).
