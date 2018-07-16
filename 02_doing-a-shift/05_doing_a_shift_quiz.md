@@ -14,7 +14,7 @@
 
 ?: What Slack channel do we use during our shift and for all shift related content?
 
-( ) `#technical-coaches`
+(X) `#technical-coaches`
 ( ) `#labs-escalation`
 ( ) `#tc_updates`
 
@@ -43,7 +43,7 @@
 
 (X) Clone their repo and do chat only support
 ( ) Resolve the question  
-( )Scold the student for their poor internet connection
+( ) Scold the student for their poor internet connection
 
 
 ?: How much time is allotted for pairing with students?
