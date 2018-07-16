@@ -4,7 +4,7 @@ Before you work your first shift, there a few tasks (aside from completing this 
 
 ## Shadowing and Observing a TC
 
-Before jumping in with students, new TCs should shadow a few veteran TCs to get an idea of how we pair program with students over a screenshare. We recommend shadowing multiple TCs to see the different ways they work with students, as well as get a sense of best practices - from initiating communication with the student, running the screenshare, troubleshooting and teaching on the fly and wrapping up with the student. It may help to take notes during the sessions so you have material to review afterwards. Be sure to follow up with the TC you shadowed afterwards if you have any questions or comments for them.
+Before jumping in with students, new TCs should shadow a few veteran TCs to get an idea of how we pair program with students over a screenshare. We recommend shadowing multiple TCs to see the different ways they work with students, as well as get a sense of best practices - from initiating communication with the student, running the screenshare, troubleshooting and teaching on the fly to wrapping up with the student. It may help to take notes during the sessions so you have material to review afterwards. Be sure to follow up with the TC you shadowed afterwards if you have any questions or comments for them.
 
 If your TCL has not already reached out to you to schedule the shadowing sessions, please reach out to them to get the ball rolling!
 
