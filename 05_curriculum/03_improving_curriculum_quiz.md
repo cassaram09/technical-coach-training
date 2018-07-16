@@ -5,11 +5,12 @@
 
 # Improving Curriculum Quiz
 
-?: When you're raising an issue or making a PR to curriculum, you should make it on repos in the
+?: On which repository should you raise an issue or submit a Pull Request?
 
-(X) learn-co-curriculum organization
-( ) learn-co-students organization
-( ) both
+(X) The repository in the `learn-co-curriculum` organization
+( ) The repository in the `learn-co-students` organization
+( ) The student's forked repository
+( ) All of the above
 
 ?: Which of the following is an example of a good issue title?
 
@@ -26,8 +27,8 @@
 
 ?: Who should you @mention when you raise an issue? (check all that apply)
 
-[X] the section lead that owns the section of the curriculum
-[X] Ruth
-[ ] Peter Bell
+[X] The Section Lead that owns the section of the curriculum
+[X] The Technical Coach Manager
+[ ] The Head of Curriculum
 
 ???
