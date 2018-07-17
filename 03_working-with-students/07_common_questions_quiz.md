@@ -5,35 +5,36 @@
 
 # Common Questions Quiz
 
-?: What's the first step of the debugging process?
+?: How do we handle Learn/IDE/Workflow Issues?
 
-(X) Look at the error message and identify the problem
-( ) Look at the student's code
-( ) Have the student explain the error
+(X) Solve the problem for the student
+( ) Teach the student how to solve the error 
+( ) Have the student restart their computer
 
-?: How do we break down the problem? 
+?: How do we handle issues where the lab tests don't run?
 
-(X) Identify what the code should do, what the inputs are, what the expected outputs are, and any edge cases
-( ) Break it down into smaller components
-( ) Asking the student what their code does
- 
-?: When using the Socractic method, we should:
+(X) Identify the root cause, then solve the problem appropriately
+( ) Always solve the problem for the student
+( ) Tell them to work on the lab more 
 
-[ ] Ask questions instead of statements
-[ ] Restate the student's process or incorrect assumptions
-[ ] Have the student walk you through their code
+?: What are some common examples of tests running, but the student can't fix the errors?
+
+[ ] Student doesn’t know why their tests aren’t passing
+[ ] Student doesn’t understand what the error message means
+[ ] Student doesn’t know what the test requires
 [X] All of the above
 
-?: When debugging a student's code and error messages, what's the first thing you should ask the student?
+?: How do we handle conceptual issues?
 
-( ) what are they trying to do
-(X) can they explain what the error message is saying
-( ) what concepts is this lab covering
+(X) User videos, teach the concept, document the issue, and escalate if necessary
+( ) Use the Socratic method to teach the concept
+( ) Ask the student to explain the concept they're struggling with
 
-?: If a student isn't sure what their code does you should
+?: How do we handle unsupported questions? (check all that apply)
 
-( ) pair program
-( ) ask the student to push all their code to you
-(X) have the student try out their code in IRB, pry, console, or debugger
+[ ] Tell the student we can't help them
+[ ] If it's an assessment: videos, study groups, 1:1 support, and DMing the Section Lead
+[ ] Admission or billing: refer them to the admissions department
+[X] All of the above
 
 ???
