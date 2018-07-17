@@ -1,9 +1,8 @@
-
 # Escalating an Issue
 
 ![escalation](http://i.giphy.com/ToMjGpjpXMFPshSYGLm.gif)
 
-Sometimes as a technical coach, you will encounter questions that are beyond your scope to answer. In these cases, you'll need to escalate the issue.
+Sometimes as a Technical Coach, you will encounter questions that are beyond your scope to answer. In these cases, you'll need to escalate the issue.
 
 ## What kinds of issues should be reported?
 
@@ -14,11 +13,11 @@ Sometimes as a technical coach, you will encounter questions that are beyond you
   - What courses do you offer?
   - Do you offer scholarships?
 
-Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Once you get confirmation from the student that this is OK, hit the Assign button and expert-chat will take care of the rest!
+Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Once you get confirmation from the student that this is OK, hit the `Assign to Enrollments` button and AAQ will take care of the rest!
 
 ### Personal Escalation - Through Slack
 
-Students get a little frustrated all the time, but if a student seems to be really disheartened, or if they mention even in passing that they might (quit | leave | stop) the course, immediately send a DM to `@ruth`, `@kaitlin`, and `@peterbell` in the Flatiron Staff Slack channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. **This is very important.**
+Students get a little frustrated all the time, but if a student seems to be really disheartened, or if they mention even in passing that they might (quit | leave | stop) the course, immediately send a DM to the Technical Coach Manager in the Flatiron Staff Slack channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. **This is very important.**
 
 If in doubt, send too many of these. If necessary, we'll refine the instructions but we'd rather get too many false positives than fail to help a student who's having a hard time.
 
