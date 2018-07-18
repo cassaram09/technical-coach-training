@@ -10,7 +10,7 @@ Since reporting an issue is a heavy load on our development team, there are step
 - Browse or search [the technical coaches resources repo]() and the [help center](http://help.learn.co/) using keywords or error messages to see if you can find a solution 
 - If the student is having an issue in the Learn IDE, you should be able to re-create this same issue **in your own Learn IDE**.
 - Search the `#tc_support` channel for any possible solutions
-- Do an `@here` in the `#technical-coaches` channel to see if any of the other technical coaches can help
+- Do an `@here` in the `#technical-coaches` channel to see if any of the other Technical Coaches can help
 - Do a quick Google / StackOverflow search for any possible solutions
 
 If you are unable to resolve the issue using the above methods, proceed to report the issue through Jira.
@@ -18,17 +18,17 @@ If you are unable to resolve the issue using the above methods, proceed to repor
 ## How to report an issue through Jira
 If you are running into an issue that is beyond your ability, hit the `Log Bug Report` button on AAQ.
 
-![log button](https://s3.amazonaws.com/learn-experts/jira-log-bug-report.png "log button")
+![log_issue](https://raw.githubusercontent.com/cassaram09/technical-coach-training/master/images/log_bug_report.png)
 
-This will bring you to Jira, where you need to press the Create button at the top of the screen.
+This will bring you to Jira, where you need to press the plus button in the navigation to create the issue.
 
-![create issue](https://s3.amazonaws.com/learn-experts/jira-create-issue.png "Create Issue")
+![create issue](https://raw.githubusercontent.com/cassaram09/technical-coach-training/master/images/create_issue.png)
 
 This will bring up a modal for you to create a ticket based on issue type.
 
 Select the appropriate issue type and fill in all required and optional fields.
 
-![issue modal](https://s3.amazonaws.com/learn-experts/jira-issue-modal.png "Issue Modal")
+![issue modal](https://raw.githubusercontent.com/cassaram09/technical-coach-training/master/images/create_issue_modal.png)
 
 When creating your ticket make sure to include:
 
@@ -45,8 +45,8 @@ Full Name: Michael Jackson
 Github Username: HeeHee
 Lab: Music CLI lesson
 
-OS: Sierra
-Environment: Learn IDE V3
+OS: OSX Sierra
+Environment: Desktop Learn IDE V3
 
 Issue: Test and PR light won't turn green after passing test and doing learn submit
 
@@ -69,15 +69,15 @@ There are a few different priority levels and it's important to pick the right o
 | Priority | Definition | 
 | -------- | ---------- |
 | Blocker | Issues that prevent paid users from learning, or sitewide issues that affect all users. For example: a paid user's IDE not working or they can't access their track or billing. Or, AAQ is broken, or `learn.co` is down. **Use with caution**. |
-| High | Issues that prevent unpaid users from learning, or a paid student has an issue that is causing a poor experience. For example: a paid user's lights on `learn.co` aren't or is having chat issues; an free user can't access a free track or get their IDE to work.
+| High | Issues that prevent unpaid users from learning, or a paid student has an issue that is causing a poor experience. For example: a paid user's lights on `learn.co` aren't or is having chat issues; a free user can't access a free track or get their IDE to work.
 | Medium | An issue that needs to be addressed and may be causing a poor experience but does not need to be fixed for a few business days. For example, a paid user has Slack invitation issues, or can't switch their blog type; a free user's track lights won't flip but they can proceed. 
-| Low |An issue that would be nice to fix, but can be addressed down the road during a clean up week. For example, visual quirks, feature requests or improvements; free user has has a problem with slack or their progress data is incorrect.
+| Low | An issue that would be nice to fix, but can be addressed down the road during a clean up week. For example, visual quirks, feature requests or improvements; free user has has a problem with Slack or their progress data is incorrect.
 
 **Raising a blocking issue will alert the entire Flatiron staff. Use ONLY for critical issues.**
 
 [Use this spreadsheet to determine which priority level you should use.](https://docs.google.com/a/flatironschool.com/spreadsheets/d/1_yr-CsT0hIfSEcz9vv9yjkRGWQLeKmG40SNjywphoOc/edit?usp=sharing)
 
-**Note: Before raising a blocking issue, you'll need to determine if the user is paying or not. Additionally, if the student can move forward (go to the next lesson for now), then this is not a blocking issue.**
+**Note: Before raising a blocking issue, you'll need to determine if the user is paying or not. Additionally, if the student can move forward (go to the next lesson for now), then it is *not* a blocking issue.**
 
 ## Resources
 
