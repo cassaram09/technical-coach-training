@@ -13,7 +13,9 @@ Sometimes as a Technical Coach, you will encounter questions that are beyond you
   - What courses do you offer?
   - Do you offer scholarships?
 
-Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Once you get confirmation from the student that this is OK, hit the `Assign to Enrollments` button and AAQ will take care of the rest!
+Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Once you get confirmation from the student that this is OK, hit the `Assign to Enrollments` button. Referring the questions to admissions will automatically resolve the question.
+
+![admissions](https://github.com/cassaram09/technical-coach-training/blob/master/images/assign_to_enrollments.png?raw=true)
 
 ### Personal Escalation - Through Slack
 
@@ -23,7 +25,7 @@ If in doubt, send too many of these. If necessary, we'll refine the instructions
 
 ### Struggling Student - Through Admin Profile and/or Slack
 
-If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile(eg there are several other notes by other TCs / staff members about the student struggling with concepts), **please email or Slack the Technical Coach manager immediately** about the student so we can get them help from the appropriate Section Lead. 
+If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (eg there are several other notes by other TCs / staff members about the student struggling with concepts), **please email or Slack the Technical Coach manager immediately** about the student so we can get them help from the appropriate Section Lead. 
 
 ### All other issues - Through Jira
 
@@ -31,16 +33,16 @@ In other cases, technical issues need to be escalated to our development team. T
 
 | Issue | Description |
 | --- | --- |
-| IDE |  Any issues related to the Learn IDE. For example, theser is getting an error when installing the IDE, or the IDE won't load |
-| Chat |  Issues related to the /expert-chat, Ask A Question, DM, or Lobby features in Learn, eg chat is totally empty, notifications not showing up for chat|
+| IDE |  Any issues related to the Learn IDE. For example, the user is getting an error when installing the IDE, or the IDE won't load |
+| Chat |  Issues related to Ask A Question, DM, or Lobby features in Learn, eg chat is totally empty, notifications not showing up for chat|
 | UI |  Buttons not working, problems with the site, pages 500ing |
-| Account | Billing, feature access, github name change |
+| Account | Billing, feature access, Github name change |
 | Lights | Lights not flipping |
 | Project | Issues related to an assessment / portfolio project |
 | VirtualBox | Issues related to installing or using VirtualBox |
-| Learn Gem | Eg, user is getting errors when running tests or submitting lessons |
-| Github |  Github account not connecting to Learn.co |
-| Blog | Student's Learn.co blog related issues - can't save blog posts, switching blog type
+| Learn Gem | Eg User is getting non test errors when running tests or submitting lessons |
+| Github |  Eg Github account not connecting to Learn.co |
+| Blog | Student's Learn.co blog related issues - can't save blog posts, switching blog type, etc.
 
 In the next section, we'll cover how to correctly escalate an issue by submitting a ticket on Jira.
 
