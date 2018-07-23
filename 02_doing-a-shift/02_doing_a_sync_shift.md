@@ -41,6 +41,8 @@ This will take you to their forked repository and you can get the url to clone t
 ## Ending Your Shift
 If you recieve a question 5 minutes prior to the end of your shift, you can `qbot more help` it to the next available TC. If you recieve a question 2 minutes prior to the end of your shift, you will need to `qbot more help` and then `qbot out`. Any questions assigned to you for 2 minutes or longer will need to be added back to the queue before you `qbot out`.
 
+If you run out of time with a student and you're not at a good stopping point, you can let them know that you're happy to put them back in the queue and have another coach come on to help them in a minute. After ending your share, `qbot more help` in Slack and the question will be automatically reassigned.
+
 If you're not on with a student, you can simply `qbot out` to end your shift.
 
 ## Resources
