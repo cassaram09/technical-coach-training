@@ -29,6 +29,9 @@ The `#tc-updates` channel is used by the Technical Coach Leads, Technical Coach 
 ### #tc-support
 The `#tc-support` channel is used for finding already answered questions as well as asking your own questions. You will want to first do a search for a question you might have. If there are no questions already answered in that topic, open your own thread with the question. Technical Coaches will then reply to any question you may have as threaded replies.
 
+### #virtual-box
+The `#virtual-box` channel contains lots of useful information for VirtualBox, software that allows students to run a virtual machine on their computer if they're not using OSX. This channel has links to available resources, videos and the Github docs with fixes to the most common known issues.
+
 ## Qbot
 `Qbot` is the helpful Slack bot that manages who's on shift and the questions queued for screen share. We reference some of these commands in this curriculum track. You'll be using these commands frequently on shift, so please [check out the full documentation for qbot here](https://github.com/flatiron-labs/online-ed-ops/blob/master/technical-coach-team/role-technical-coach/lib/qbot.md).
 
@@ -53,3 +56,4 @@ If you're working a double shift, you are permitted one 30 minute break and one 
 * [#labs-escalation channel information]
 * [#tc-updates channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_updates_channel.md)
 * [#tc-support channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_support_channel.md)
+* [Virtual Box Info](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md)
